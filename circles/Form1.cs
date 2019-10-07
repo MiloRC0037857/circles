@@ -35,7 +35,7 @@ namespace circles
                 radius = 0.0;
             }
             
-            double cir = 2 * Math.PI * radius;
+            double cir = 2.0 * Math.PI * radius;
 
             label1.Text = "Circumference = " + cir ;
 
